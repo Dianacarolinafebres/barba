@@ -1,2 +1,2 @@
 # barba
-site de aprendizagem HTML e CSS 
+Pagina comercial para aprendizagem.
